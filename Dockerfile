@@ -1,3 +1,3 @@
-FROM gcr.io/prysmaticlabs/prysm/beacon-chain:latest
+FROM gcr.io/prysmaticlabs/prysm/beacon-chain:schlesi
 
 # TODO: build from source instead, temporary work around
