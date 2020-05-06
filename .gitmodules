@@ -1,0 +1,3 @@
+[submodule "prysm"]
+	path = prysm
+	url = https://github.com/prysmaticlabs/prysm.git
